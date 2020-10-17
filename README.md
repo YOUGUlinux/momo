@@ -29,7 +29,7 @@
 
 
 ----------------
-[gihub地址：](https://github.com/DOUBLE-Baller/momo) https://github.com/DOUBLE-Baller/momo
+[gihub地址：](https://github.com/YOUGUlinux) https://github.com/YOUGUlinux
 
 [web演示地址：](http://www.jinqianlive.com) http://www.jinqianlive.com 
 
